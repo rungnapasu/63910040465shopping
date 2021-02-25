@@ -1,0 +1,68 @@
+const products =  [
+    {
+      _id: "1",
+      url: "https://telecorsa.com/upload-img/Black-T-Shirt-Cotton-Joe-Beam.jpg",
+      name: "TShirt",
+      brand: "Dior",
+      price: 50,
+      stars: 5,
+    },
+    {
+      _id: "2",
+      url: "https://cdna.lystit.com/photos/vitkac/c16051a4/dior-BLACK-Sheer-T-shirt-With-Logo.jpeg",
+      name: "See-through shirt",
+      brand: "Dior",
+      price: 160,
+      stars: 4.5,
+    },
+    {
+      _id: "3",
+      url: "https://th.bing.com/th/id/OIP.gL9CwopVFYm0qoLIQCxrqQHaLW?pid=ImgDet&w=2640&h=4048&rs=1",
+      name: "Shirt",
+      brand: "Dior",
+      price: 160,
+      stars: 4.0,
+    },
+    {
+      _id: "4",
+      url: "https://th.bing.com/th/id/OIP.jr4k6lEqCkEUsmmrNs9klgHaJ4?pid=ImgDet&w=1000&h=1334&rs=1",
+      name: "Coat of arms",
+      brand: "Dior",
+      price: 60,
+      stars: 4.5,
+    },
+    {
+      _id: "5",
+      url: "https://th.bing.com/th/id/OIP.Ui0ao2OZumRKHUGpLY7b0wAAAA?pid=ImgDet&w=246&h=300&rs=1",
+      name: "Slim Shirt",
+      brand: "Nike",
+      price: 60,
+      stars: 4.5,
+    },
+    {
+      _id: "6",
+      url: "https://th.bing.com/th/id/OIP.6tSwm5lTh5B-M2SC1cPiIAHaJ4?pid=ImgDet&w=1800&h=2400&rs=1",
+      name: "Polk dot shirt",
+      brand: "Nike",
+      price: 60,
+      stars: 4.5,
+    },
+    {
+      _id: "7",
+      url: "https://th.bing.com/th/id/OIP.4d9EIKfpzHsiwHBtXvmTHAHaKs?pid=ImgDet&w=762&h=1100&rs=1",
+      name: "Dress",
+      brand: "Nike",
+      price: 60,
+      stars: 4.5,
+    },
+    {
+      _id: "8",
+      url: "https://th.bing.com/th/id/OIP.9DRC7i_MrZ4TECceBydcQgHaHa?pid=ImgDet&w=600&h=600&rs=1",
+      name: "Clothes set",
+      brand: "Nike",
+      price: 60,
+      stars: 4.5,
+    },
+  ];
+
+export default products;
